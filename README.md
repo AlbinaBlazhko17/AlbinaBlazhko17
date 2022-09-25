@@ -15,6 +15,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Github Stats  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albinator1707&hide_border=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albinator1707&hide_border=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" align="center" /></div>  
 
 <br/>  
+<div align="right"><a href="https://ibb.co/1zNGvzH"><img src="https://i.ibb.co/1zNGvzH/DSC08979.jpg" alt="DSC08979" border="0"></a></div>
