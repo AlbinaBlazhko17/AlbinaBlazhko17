@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Albina Blazhko 
  Full stack web developer <br/> I graduated from university 🎓 and continued to acquire knowledge and important skills 🤓 in order to create something incredible and the world of IT 👩‍💻  
-* 🌍  I'm based in Ukraine 🇺🇦 
-* * ✉️  You can contact me at [albinamivina@icloud.com](mailto:albinamivina@icloud.com) 
-* * 🧠  I'm learning React 
-* * ⚡  Playing amazing games 🎮, reading a lot of gripping books 📚, like a huge amount of neon 💡
+🌍  I'm based in Ukraine 🇺🇦 
+✉️  You can contact me at [albinamivina@icloud.com](mailto:albinamivina@icloud.com) 
+🧠  I'm learning React 
+⚡  Playing amazing games 🎮, reading a lot of gripping books 📚, like a huge amount of neon 💡
 
 ### Skills  
 
