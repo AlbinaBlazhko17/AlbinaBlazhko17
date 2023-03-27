@@ -20,7 +20,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Github Stats  
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albinator1707&hide_border=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" align="center" />  </div>  
+<div align="left">
+      	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albinator1707&hide_border=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Albinator1707/github-readme-stats)
+</div>  
 
 <br/>  
 
