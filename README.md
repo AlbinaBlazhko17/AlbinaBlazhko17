@@ -1,4 +1,4 @@
-<h1>Hey there!</h1>[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br/> My name is Albina Blazhko <br/>
+<h1>Hey there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)</h1> <br/> My name is Albina Blazhko <br/>
 >  Full stack web developer <br/> I graduated from university 🎓 and continued to acquire knowledge and important skills 🤓 in order to create something incredible and the world of IT 👩‍💻  
 🌍  I'm based in Ukraine 🇺🇦 <br/>
 ✉️  You can contact me at [albinamivina@icloud.com](mailto:albinamivina@icloud.com) <br/>
