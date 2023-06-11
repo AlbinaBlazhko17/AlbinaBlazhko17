@@ -2,7 +2,7 @@
 <h3> My name is Albina Blazhko </h3> <br/>
 >  <i> Full stack web developer </i> <br/> 
  <br/> 
-I graduated from university 🎓 and continued to acquire knowledge and important skills 🤓 in order to create something incredible and the world of IT 👩‍💻  
+I graduated from university 🎓 and continued to acquire knowledge and important skills 🤓 in order to create something incredible and the world of IT 👩‍💻  </br>
 🌍  I'm based in Ukraine 🇺🇦 <br/>
 ✉️  You can contact me at [albinamivina@icloud.com](mailto:albinamivina@icloud.com) <br/>
 🧠  I'm learning Next.js <br/>
