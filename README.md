@@ -21,12 +21,8 @@ I graduated from university 🎓 and continued to acquire knowledge and importan
 ### Github Stats
 <hr/>
 
-
  <div style="display: flex; flex-direction: row;">
   <img class="img" style="margin-right: 40px;" src="https://github-readme-stats.vercel.app/api?username=Albinator1707&show_icons=true&theme=radical" />
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albinator1707&theme=radical&layout=compact" />
 </div>
-
-
-<br/>  
 
