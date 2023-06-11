@@ -14,7 +14,7 @@ I graduated from university 🎓 and continued to acquire knowledge and importan
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,nodejs,nestjs,mongodb,py,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,nextjs,nodejs,nestjs,mongodb,py,cpp,figma" />
   </a>
 </p>
 
