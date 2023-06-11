@@ -9,7 +9,7 @@ I graduated from university 🎓 and continued to acquire knowledge and importan
 🧠  I'm learning Next.js <br/>
 ⚡  Playing amazing games 🎮, reading a lot of gripping books 📚, like a huge amount of neon 💡<br/>
 
-### Skills  
+<h3 align="center"> Skills </h3> 
 <hr/>
 
 <p align="center">
