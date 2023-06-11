@@ -5,8 +5,8 @@
 I graduated from university 🎓 and continued to acquire knowledge and important skills 🤓 in order to create something incredible and the world of IT 👩‍💻  </br>
 <br/>
 🌍  I'm based in Ukraine 🇺🇦 <br/>
-✉️  You can contact me at [albinamivina@icloud.com](mailto:albinamivina@icloud.com) <br/>
-🧠  I'm learning Next.js <br/>
+✉️  You can contact me at ![albinamivina@icloud.com](mailto:albinamivina@icloud.com) <br/>
+🧠  I'm learning MongoDB <br/>
 ⚡  Playing amazing games 🎮, reading a lot of gripping books 📚, like a huge amount of neon 💡<br/>
 
 <h3 align="center"> Skills </h3> 
