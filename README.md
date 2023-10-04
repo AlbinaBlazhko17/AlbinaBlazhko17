@@ -6,7 +6,7 @@ I graduated from university 🎓 and continued to acquire knowledge and importan
 <br/>
 🌍  I'm based in Ukraine 🇺🇦 <br/>
 ✉️  You can contact me at albinamivina@icloud.com <br/>
-🧠  I'm learning MongoDB <br/>
+🧠  Working in Gotoinc <br/>
 ⚡  Playing amazing games 🎮, reading a lot of gripping books 📚, like a huge amount of neon 💡<br/>
 
 <h3 align="center"> Skills </h3> 
