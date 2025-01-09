@@ -2,10 +2,11 @@
 <h3> My name is Albina Blazhko </h3> <br/>
 >  <i> Full stack web developer </i> <br/> 
  <br/> 
-I graduated from university 🎓 and continued to acquire knowledge and important skills 🤓 in order to create something incredible and the world of IT 👩‍💻  </br>
+I am dedicated developer, who continued to acquire knowledge and important skills 🤓 in order to create something incredible and the world of IT 👩‍💻  </br>
 <br/>
+🎓  I have Bachelors degree in Computer science <br/>
 🌍  I'm based in Ukraine 🇺🇦 <br/>
-✉️  You can contact me at albinamivina@icloud.com <br/>
+✉️  You can contact me at albinablazhko@gmail.com <br/>
 🧠  Working in Gotoinc <br/>
 ⚡  Playing amazing games 🎮, reading a lot of gripping books 📚, like a huge amount of neon 💡<br/>
 
