@@ -15,7 +15,7 @@ I am dedicated developer, who continued to acquire knowledge and important skill
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,nextjs,nodejs,nestjs,mongodb,aws,py,cpp,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,nextjs,nodejs,nestjs,mongodb,aws,cpp,figma" />
   </a>
 </p>
 
