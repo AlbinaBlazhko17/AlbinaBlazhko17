@@ -7,7 +7,7 @@ I am dedicated developer, who continued to acquire knowledge and important skill
 🎓  I have Bachelors degree in Computer science <br/>
 🌍  I'm based in Ukraine 🇺🇦 <br/>
 ✉️  You can contact me at albinablazhko@gmail.com <br/>
-🧠  Working in Gotoinc <br/>
+🧠  Working in Redocly <br/>
 ⚡  Playing amazing games 🎮, reading a lot of gripping books 📚, like a huge amount of neon 💡<br/>
 
 <h3 align="center"> Skills </h3> 
