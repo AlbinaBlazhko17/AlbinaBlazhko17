@@ -1,7 +1,7 @@
 <h1> Hey there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" height="36"></h1>
-<h3> My name is Albina Blazhko </h3> <br/>
+<h3> My name is Albina Blazhko </h3>
 >  <i> Full stack web developer </i> <br/> 
- <br/> 
+<br/> 
 I am dedicated developer, who continued to acquire knowledge and important skills 🤓 in order to create something incredible and the world of IT 👩‍💻  </br>
 <br/>
 🎓  I have Bachelors degree in Computer science <br/>
