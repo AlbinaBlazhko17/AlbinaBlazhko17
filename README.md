@@ -1,4 +1,4 @@
-<h1> Hey there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" height="36"></h1> <br/> 
+<h1> Hey there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="36" height="36"></h1>
 <h3> My name is Albina Blazhko </h3> <br/>
 >  <i> Full stack web developer </i> <br/> 
  <br/> 
