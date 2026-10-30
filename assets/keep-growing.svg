@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="300" viewBox="0 0 680 300" role="img" aria-labelledby="title">
+  <title id="title">keep-growing.ts: while curious, find the next challenge, learn it, build something useful, ship it, and recharge with games, books and neon.</title>
+
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7f5af0"/>
+      <stop offset="50%" stop-color="#c45bd0"/>
+      <stop offset="100%" stop-color="#2cb1bc"/>
+    </linearGradient>
+    <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+    <clipPath id="window">
+      <rect x="20" y="16" width="640" height="264" rx="12"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .code { font-family: "JetBrains Mono", "SFMono-Regular", Menlo, Consolas, "Liberation Mono", monospace; font-size: 14px; white-space: pre; }
+    .line-number { fill: #45456a; text-anchor: end; }
+    .plain { fill: #d6d6f0; }
+    .keyword { fill: #f472b6; }
+    .string { fill: #7dd3c0; }
+    .variable { fill: #c4b5fd; }
+    .function { fill: #7cc4fa; }
+    .file-name { font-family: "SFMono-Regular", Menlo, Consolas, monospace; font-size: 12px; fill: #9a9ab8; }
+  </style>
+
+  <!-- Soft neon glow behind the window -->
+  <rect x="20" y="16" width="640" height="264" rx="12" fill="url(#border)" opacity="0.35" filter="url(#glow)"/>
+
+  <!-- Window body and gradient border -->
+  <rect x="20" y="16" width="640" height="264" rx="12" fill="#0f0f1a"/>
+
+  <!-- Title bar -->
+  <g clip-path="url(#window)">
+    <rect x="20" y="16" width="640" height="36" fill="#151526"/>
+    <line x1="20" y1="52" x2="660" y2="52" stroke="#26263d"/>
+  </g>
+  <circle cx="40" cy="34" r="5.5" fill="#ff5f57"/>
+  <circle cx="58" cy="34" r="5.5" fill="#febc2e"/>
+  <circle cx="76" cy="34" r="5.5" fill="#28c840"/>
+  <text x="96" y="38" class="file-name">keep-growing.ts</text>
+
+  <rect x="20.5" y="16.5" width="639" height="263" rx="11.5" fill="none" stroke="url(#border)" stroke-width="1.5"/>
+
+  <!-- Line numbers -->
+  <g class="code line-number">
+    <text x="52" y="84">1</text>
+    <text x="52" y="108">2</text>
+    <text x="52" y="132">3</text>
+    <text x="52" y="156">4</text>
+    <text x="52" y="180">5</text>
+    <text x="52" y="204">6</text>
+    <text x="52" y="228">7</text>
+    <text x="52" y="252">8</text>
+  </g>
+
+  <!-- Code -->
+  <g class="code" xml:space="preserve">
+    <text xml:space="preserve" x="68" y="84"><tspan class="keyword">while</tspan><tspan class="plain"> (</tspan><tspan class="variable">curious</tspan><tspan class="plain">) {</tspan></text>
+    <text xml:space="preserve" x="68" y="108"><tspan class="plain">  </tspan><tspan class="keyword">const</tspan><tspan class="plain"> challenge = </tspan><tspan class="function">findNext</tspan><tspan class="plain">([</tspan><tspan class="string">'language'</tspan><tspan class="plain">, </tspan><tspan class="string">'domain'</tspan><tspan class="plain">, </tspan><tspan class="string">'hard bug'</tspan><tspan class="plain">]);</tspan></text>
+    <text xml:space="preserve" x="68" y="132"><tspan class="plain">  </tspan><tspan class="function">learn</tspan><tspan class="plain">(challenge);</tspan></text>
+    <text xml:space="preserve" x="68" y="156"><tspan class="plain">  </tspan><tspan class="function">build</tspan><tspan class="plain">(</tspan><tspan class="variable">somethingUseful</tspan><tspan class="plain">);</tspan></text>
+    <text xml:space="preserve" x="68" y="180"><tspan class="plain">  </tspan><tspan class="function">ship</tspan><tspan class="plain">();</tspan></text>
+    <text xml:space="preserve" x="68" y="228"><tspan class="plain">  </tspan><tspan class="function">recharge</tspan><tspan class="plain">([</tspan><tspan class="string">'games 🎮'</tspan><tspan class="plain">, </tspan><tspan class="string">'books 📚'</tspan><tspan class="plain">, </tspan><tspan class="string">'neon 💡'</tspan><tspan class="plain">]);</tspan></text>
+    <text xml:space="preserve" x="68" y="252"><tspan class="plain">}</tspan></text>
+  </g>
+</svg>
